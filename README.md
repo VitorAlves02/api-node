@@ -26,7 +26,7 @@
 
 <br>
 
-<h3>Ferramentas utilizadas</h>
+<h3>Ferramentas utilizadas</h3>
 <ul>
   <li>A criação do servidor foi pelo Express.</li>
   <li>O banco utilizado foi o MongoDB.</li>
